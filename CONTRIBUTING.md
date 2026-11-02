@@ -1,6 +1,6 @@
 # Reporting a problem
 
-Use [the bug report form](https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/issues/new/choose) and include:
+Use [the bug report form](https://github.com/RetchERez/brain-lord-jade-overhaul/issues/new/choose) and include:
 
 - The patch version and emulator/core version
 - Whether you started a new game and used a clean headerless USA ROM

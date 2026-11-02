@@ -1,5 +1,5 @@
 name: Bug report
-description: Report a reproducible issue with Vanilla Plus Fairies
+description: Report a reproducible issue with Jade Overhaul
 labels: [bug]
 body:
   - type: markdown

@@ -1,4 +1,4 @@
-Brain Lord - Vanilla Plus Fairies
+Brain Lord - Jade Overhaul
 Version 1.0
 
 The original game, with four additional fairy companions
@@ -11,12 +11,12 @@ Life stays with its original Silver Plaque exchange
 
 INSTALL
 
-Use brain_lord_vanilla_plus_fairies_v10.bps
+Use brain_lord_jade_overhaul_v10.bps
 
 - Apply the BPS patch once to an unmodified headerless Brain Lord USA ROM
 - Use a separate filename for your patched game and its saves
 - Start a new game to make all four new treasures available
-- Keep your old Jade Overhaul saves and emulator save states separate
+- Keep saves from earlier 12-fairy builds and emulator save states separate
 
 Original ROM size: 1,572,864 bytes
 Original ROM CRC32: AC443D87
@@ -143,7 +143,7 @@ The four new fairy records are stored inside each native save block
 Both native save slots, their backups, copy and erase are supported
 A vanilla battery save can load, but already opened replacement chests cannot grant new Jades
 A new game is recommended for the complete experience
-Saves from the earlier Jade Overhaul are not compatible with this roster
+Saves from the earlier 12-fairy build are not compatible with this roster
 
 FOCUSED TESTING
 

@@ -1,12 +1,12 @@
-# Brain Lord: Vanilla Plus Fairies v1.0
+# Brain Lord: Jade Overhaul v1.0
 
 The original **Brain Lord (USA)** adventure with four additional fairy roles:
 **Rapid, Ward, Frost and Poison**. All **13 original individual fairies** keep
 their original stats, prices and sources, bringing the roster to **17**.
 
-**[Download v1.0 — BPS patch + readme](https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/releases/download/v1.0/brain_lord_vanilla_plus_fairies_v10.zip)** · [Release page](https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/releases/tag/v1.0) · [Player readme](readme.txt)
+**[Download v1.0 — BPS patch + readme](https://github.com/RetchERez/brain-lord-jade-overhaul/releases/download/v10/brain_lord_jade_overhaul_v10.zip)** · [Release page](https://github.com/RetchERez/brain-lord-jade-overhaul/releases/tag/v10) · [Player readme](readme.txt)
 
-The archive is named **brain_lord_vanilla_plus_fairies_v10.zip** — `v10` means version 1.0.
+The archive is named **brain_lord_jade_overhaul_v10.zip** — `v10` means version 1.0.
 
 ## What changes
 
@@ -49,7 +49,7 @@ for acquisition details, training, safeguards, saves and focused testing.
 - Select a clean, headerless Brain Lord USA ROM in a BPS-compatible patcher
 - Apply the BPS patch once to the clean ROM and save the result under a separate name
 - Launch the patched game and start a new game to make all four treasures available
-- Keep earlier Jade Overhaul saves and emulator save states separate
+- Keep saves from earlier 12-fairy builds and emulator save states separate
 
 Required original ROM:
 
@@ -93,7 +93,7 @@ and room changes start a fresh recharge.
 
 Unscaled **256×224** frames, without captions or overlays. These are prepared
 gameplay and inventory showcases. [View all nine screenshots](docs/SCREENSHOTS.md).
-[Download the original PNG screenshot pack](https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/releases/download/v1.0/brain_lord_vanilla_plus_fairies_v10_screenshots.zip).
+[Download the original PNG screenshot pack](https://github.com/RetchERez/brain-lord-jade-overhaul/releases/download/v10/brain_lord_jade_overhaul_v10_screenshots.zip).
 
 ![The four new Jade inventory icons](media/screenshots/inventory-new-jades.png)
 ![Rapid in gameplay](media/screenshots/rapid-gameplay.png)
@@ -109,7 +109,7 @@ recall and room reload checks. Both native save slots and fresh battery-save
 Continue were tested. No full campaign playthrough was performed.
 
 [Verification details](docs/VERIFICATION.md) · [Changelog](CHANGELOG.md) ·
-[Report a bug](https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/issues/new/choose) · [Forum-ready BBCode](forum-posts/README.md)
+[Report a bug](https://github.com/RetchERez/brain-lord-jade-overhaul/issues/new/choose) · [Forum-ready BBCode](forum-posts/README.md)
 
 This public repository contains the verified player release, finished media and
 support documentation. The release ZIP contains only the BPS patch and readme.

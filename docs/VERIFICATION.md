@@ -27,7 +27,7 @@ producing the exact target and a valid SNES checksum. The ROM is not expanded.
 
 - Target SHA-256: `b87a74e86bcbe4e206a5863a90318247da8c023c8ab4c68aca19d7c70844018d`
 - Target CRC32: `599D0B43`
-- ZIP SHA-256: `2a43d0c4dc1d73148f7febf75a2dda5cef3f46e1b4ff2441f3ff2eca4089d1cb`
+- ZIP SHA-256: `ef8c85a4b237a3289fef70b884f81140534f288411353e45cd6d1765c4d22721`
 
 The public GIFs come from the final target, using prepared encounters. Poison's
 capture contains native damage flashes in the actual rendered pixels and no

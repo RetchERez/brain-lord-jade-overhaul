@@ -41,7 +41,12 @@ assert not any('.' in line for line in text.splitlines() if line.lstrip().starts
 for path in (root/'forum-posts').glob('*.bbcode.txt'):
     post=path.read_text();assert 'height=' not in post.lower()
     images=re.findall(r'\[img\](.*?)\[/img\]',post,re.I)
-    assert len(images)==7,(path,len(images))
+    if path.name=='romhacking-net.bbcode.txt':
+        assert not re.search(r'\[/?img(?:[=\s\]]|$)|<img\b',post,re.I),'RHDN submission descriptions cannot embed images'
+        assert not re.search(r'\[/?url(?:[=\s\]]|$)|https?://|www\.|<a\b',post,re.I),'RHDN description must not contain links'
+        assert set(re.findall(r'\[/?([a-z]+)',post,re.I))<={'b'},'Unsupported RHDN description tags'
+        assert not images
+    else:assert len(images)==7,(path,len(images))
     for url in images:
         prefix=manifest['raw_base']+'/'
         assert url.startswith(prefix),url

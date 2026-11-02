@@ -41,9 +41,9 @@
     "docs/VERIFICATION.md": "60b70fd14fdb5eae55e6b64af2ed88ea64bbd074b0fe3d9324343a90745c21c8",
     "downloads/brain_lord_jade_overhaul_v10.zip": "ef8c85a4b237a3289fef70b884f81140534f288411353e45cd6d1765c4d22721",
     "downloads/brain_lord_jade_overhaul_v10_screenshots.zip": "249c46806fd3d37d56572fd82fcd6305b8a4fa39ebe891306bb51af3f8d369da",
-    "forum-posts/README.md": "8e3ed9f61b9e8eda70dca9e341766a162fb8d3c8445389aec7dcd8cc7601c132",
+    "forum-posts/README.md": "b5ec39b3e473901691cb548733e7a4ccb8d513c44c6e6373eef2f9e17bca8181",
     "forum-posts/retrogametalk.bbcode.txt": "8410f6f52bfe4c930b2d66fb3b81ac1a653b54e837952c457e11add8e436a638",
-    "forum-posts/romhacking-net.bbcode.txt": "d196fb2de53852590fd663ccaf6acca0db5e77eed01ecbfb7a710d33eacedd73",
+    "forum-posts/romhacking-net.bbcode.txt": "b80b36c1f29087260dd01900ebfaf2aad70d223e2936ca64873c530c426b62d8",
     "media/frost.gif": "e90d6f5528207cea49fbf34003d7aa6c005c67eb8bab2f8cec50af86314b26e8",
     "media/poison.gif": "b7186786e5b1c5354d01951a3d0db2ba0b37fe71f41bd26c2835860228dd1e1a",
     "media/rapid.gif": "7a0f1b7bf2407bfaf14506f53986a664d6eea0fcbe726ba234ee9a6954e4c02e",
@@ -61,7 +61,7 @@
     "media/screenshots/ward-gameplay.png": "7485066ccefa02754a893fc696698a8fd7ec99e8bbd4638dc4c01085321f74ed",
     ".github/ISSUE_TEMPLATE/bug_report.yml": "0fef247bb13dc7c506a5779e3822e79f256604fde8d68e4d2ef401455429ead5",
     ".github/ISSUE_TEMPLATE/config.yml": "edc254a46d38e2b239311f48361ce524eab221c3871a10ad6f4f3b4404270522",
-    ".github/scripts/verify_release.py": "aadd8f6903018f5b059cce9d0c2dbb276cd28b8cdf7bc5f90b118fc21e77d329",
+    ".github/scripts/verify_release.py": "01484ef398956a9dcc48926be50ac6d89b575e52fec6ec5f3bbe803a16ab4be1",
     ".github/workflows/release-integrity.yml": "71fc1ca4ec5523cb8f3b354f3e76acde60816d0acc33e27f450d3143a9be070c"
   }
 }

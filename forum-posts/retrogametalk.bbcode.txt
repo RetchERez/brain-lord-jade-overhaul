@@ -1,0 +1,56 @@
+[B]Brain Lord: Vanilla Plus Fairies v1.0[/B]
+
+Four more companions for the original SNES adventure: Rapid, Ward, Frost and Poison. This keeps all 13 original individual fairies, including their original counterpart versions, for 17 total. You still equip at most two at once.
+
+The opening still gives Crimson alone, Life keeps its original quest, and the original merchants and drops remain. The four new Jades are optional dungeon discoveries. Both equipped fairies receive 50 EXP from a blue sphere, whichever one collects it.
+
+[URL=https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/releases/download/v1.0/brain_lord_vanilla_plus_fairies_v10.zip]Download the v1.0 patch and readme[/URL]
+[URL=https://github.com/RetchERez/brain-lord-vanilla-plus-fairies]GitHub project and support[/URL]
+
+[B]Meet the additions[/B]
+Rapid / Zeph - Small purple shots, weak at entry and faster with training
+Ward / Aegis - Contact protection, a visible ready state and a recharge after a block
+Frost / Rime - Icy shots and a cyan aura marking one slowed enemy; bosses resist the slow
+Poison / Briar - A green thorn fairy with one-target damage over time and native damage flashes; bosses are immune
+
+Each has its own equipped sprite and matching Jade inventory icon. Poison's thorn has no impact damage; later ticks do the damage without added stun or knockback. Enemy colors return to their normal appearance between the game's usual hit flashes.
+
+[B]See them working[/B]
+These are prepared level-1 encounters from the final ROM at normal speed. The GIF files are 600px wide and keep proportional height. Ward's demo starts with a prepared charged shield; normal summoning begins a fresh recharge.
+
+[b]Poison[/b] - Three damage ticks and native flashes; player HP stays at 20/20
+[IMG]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/poison.gif[/IMG]
+
+[b]Rapid[/b] - Small purple shots at level 1
+[IMG]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/rapid.gif[/IMG]
+
+[b]Ward[/b] - Prepared ready shield, one block, then damage during recharge
+[IMG]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/ward.gif[/IMG]
+
+[b]Frost[/b] - Icy shots, movement slow and an aura
+[IMG]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/frost.gif[/IMG]
+
+[B]Native-resolution screenshots[/B]
+Clean, unscaled 256x224 frames, including a prepared inventory with all four new Jade icons.
+
+[IMG]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/screenshots/inventory-new-jades.png[/IMG]
+
+[IMG]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/screenshots/poison-hit-flash.png[/IMG]
+
+[IMG]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/screenshots/frost-slow.png[/IMG]
+
+[URL=https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/blob/main/docs/SCREENSHOTS.md]View all nine screenshots[/URL]
+
+[B]How to play[/B]
+- Download and extract the ZIP
+- Use a BPS-compatible patcher with your clean, headerless Brain Lord USA ROM
+- The original ROM must be 1,572,864 bytes with CRC32 AC443D87
+- Apply the patch once and save the patched game under a separate name
+- Begin a new game so all four new treasures are available
+
+The download contains the patch and a user-friendly readme, including all 17 Jade locations. The filename says v10; the release is version 1.0. No ROM is included, and earlier Jade Overhaul saves and emulator states should be kept separate.
+
+All 136 pairs were compared mathematically, with native combat and reload checks for both slot orders. Menus, saves and feedback checks passed. No full campaign playthrough was performed.
+
+[URL=https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/blob/main/readme.txt]Full player guide and locations[/URL]
+[URL=https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/issues/new/choose]Report a bug[/URL]

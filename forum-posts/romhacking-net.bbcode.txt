@@ -1,0 +1,64 @@
+[b]Brain Lord: Vanilla Plus Fairies v1.0 (SNES)[/b]
+
+Brain Lord with four additional fairy roles while keeping the original adventure intact. All 13 original individual fairies remain, with Rapid, Ward, Frost and Poison bringing the total to 17. The original Crimson-only opening and Life's Silver Plaque exchange are preserved. There is no added shopkeeper.
+
+[url=https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/releases/download/v1.0/brain_lord_vanilla_plus_fairies_v10.zip]Download v1.0 - BPS patch and readme[/url]
+[url=https://github.com/RetchERez/brain-lord-vanilla-plus-fairies]GitHub project, support and documentation[/url]
+
+[b]Features[/b]
+- All 13 original individual fairies preserved, including their original counterparts
+- Rapid, Ward, Frost and Poison added as four optional dungeon discoveries
+- Original shops, Jade sources, prices, sphere drops and story gates retained
+- 50 EXP for each equipped eligible fairy from each collected sphere
+- Distinct new fairy sprites, projectiles and inventory Jade icons
+- Specific Jade names before the naming keyboard
+- Native Poison damage flashes and hit sounds, without added stun or knockback
+- Original two-fairy limit and ROM size retained
+
+[b]The new fairies[/b]
+Rapid / Zeph - Weak purple shots that become faster through training
+Ward / Aegis - One contact block when charged, then a recharge
+Frost / Rime - Weak icy shots and a movement slow that does not affect bosses
+Poison / Briar - One-target damage over time, no impact damage or stacking, and no boss damage
+
+[b]Gameplay GIFs[/b]
+Prepared level-1 encounters from the final ROM, at normal speed. The GIF files are 600 pixels wide with proportional height. Ward starts charged for its demonstration; ordinary summoning starts uncharged.
+
+[b]Poison[/b] - Three damage ticks and native flashes; player HP stays at 20/20
+[img]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/poison.gif[/img]
+
+[b]Rapid[/b] - Small purple shots at level 1
+[img]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/rapid.gif[/img]
+
+[b]Ward[/b] - Prepared ready shield, one block, then damage during recharge
+[img]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/ward.gif[/img]
+
+[b]Frost[/b] - Icy shots, movement slow and an aura
+[img]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/frost.gif[/img]
+
+[b]Native-resolution screenshots[/b]
+Unscaled 256x224 gameplay and prepared inventory captures, without captions or overlays.
+
+[img]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/screenshots/inventory-new-jades.png[/img]
+
+[img]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/screenshots/poison-hit-flash.png[/img]
+
+[img]https://raw.githubusercontent.com/RetchERez/brain-lord-vanilla-plus-fairies/v1.0/media/screenshots/frost-slow.png[/img]
+
+[url=https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/blob/main/docs/SCREENSHOTS.md]All nine native-resolution screenshots[/url]
+
+[b]Installation[/b]
+- Use a clean, unmodified, headerless Brain Lord USA ROM
+- Original ROM size: 1,572,864 bytes
+- Original ROM CRC32: AC443D87
+- Apply the BPS patch once to that clean ROM and save under a separate filename
+- Start a new game for all four new treasure rewards
+- Keep earlier Jade Overhaul saves and emulator save states separate
+
+The ZIP contains only the BPS patch and readme. Version 1.0 uses v10 in the filename. The readme lists all 17 Jade locations.
+
+[b]Verification[/b]
+26 native verification groups, 66 unit tests and 9 model regressions passed. All 136 pairs were compared mathematically and all 272 slot orders were exercised in native combat, recall and room reload checks. No full campaign playthrough was performed.
+
+[url=https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/blob/main/readme.txt]Full readme and locations[/url]
+[url=https://github.com/RetchERez/brain-lord-vanilla-plus-fairies/issues/new/choose]Bug reports[/url]

@@ -1,0 +1,10 @@
+*.sfc
+*.smc
+*.srm
+*.sav
+*.state
+*.bst
+__pycache__/
+*.pyc
+.local/
+.superpowers/
